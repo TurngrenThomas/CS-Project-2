@@ -12,7 +12,7 @@
 
 int main(){
 
-    const std::string filename = "Programming-Project-1.txt";
+    const std::string filename = "Programming-Project-2.txt";
 
     std::vector<std::string> operation,stroperand1, stroperand2;
     std::vector<unsigned int> operand1, operand2;
